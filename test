@@ -1,2 +1,10 @@
-Test
-well there is a change
+15th Feb 2023
+There is a need to have a database which can be used for both snmp, netconf 
+it should be able to represent the device logically which can be walked get/set etc.
+via snmp & netconf.
+If there is a solution for it then it can be used for Cacti, Weathermap and other type of RRD tool for pulling the information.
+
+What is in-memory DB?
+
+
+
